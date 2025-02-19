@@ -9,7 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  path_provider: ^1.6.18
+  path_provider:
+    git: https://github.com/saitbnzl/path_provider.git
   uuid:  ^2.0.2
   http: ^0.12.0+2
   path: ^1.6.4
